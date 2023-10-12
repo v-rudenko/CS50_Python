@@ -1,1 +1,1 @@
-print(type(bob))
+print(type(""))
